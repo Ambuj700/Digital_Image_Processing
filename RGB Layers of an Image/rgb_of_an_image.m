@@ -1,3 +1,8 @@
+% Red Green and Blue Layers of an Image
+% Created By : Pratik Adle
+
+%%
+
 clc;
 clear;
 close all;
