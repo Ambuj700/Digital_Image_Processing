@@ -1,1 +1,1 @@
-Python Code to implement Toboggan COntrast Enhancement Algorithm 
+Python Code to implement Toboggan Contrast Enhancement Algorithm 
